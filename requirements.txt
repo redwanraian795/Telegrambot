@@ -1,0 +1,39 @@
+# Core Telegram Bot Framework
+python-telegram-bot[job-queue]==22.1
+
+# Web Framework & Server
+flask==3.1.1
+gunicorn==23.0.0
+waitress==3.0.2
+
+# Authentication & OAuth
+flask-dance==7.1.0
+flask-login==0.6.3
+oauthlib==3.2.2
+pyjwt==2.10.1
+
+# AI & Translation Services
+googletrans==4.0.2
+gtts==2.5.4
+
+# Media & Image Processing
+pillow==11.2.1
+pydub==0.25.1
+speechrecognition==3.14.3
+
+# Web Scraping & Content
+trafilatura==2.0.0
+wikipedia==1.4.0
+
+# Security & Cryptography
+pycryptodome==3.23.0
+
+# Communication Services
+twilio==9.6.3
+telegram==0.0.1
+
+# Utilities & Date Handling
+requests==2.32.4
+urllib3==2.4.0
+python-dateutil==2.9.0.post0
+pytz==2025.2
